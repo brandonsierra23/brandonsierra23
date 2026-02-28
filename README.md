@@ -1,22 +1,69 @@
-## Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brandonsierra23" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonsierra23&layout=compact&langs_count=8&card_width=320" />
-</a> -->
+# 👋 Hola, soy Brandon Sierra
 
-<!--
-**brandonsierra23/brandonsierra23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador Back-end | NestJS & Databases  
+💻 JavaScript / TypeScript Developer desde 2023  
+🌎 Enfocado en arquitecturas escalables y código limpio  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy desarrollador con enfoque en **Back-end**, construyendo aplicaciones con **JavaScript y TypeScript**.
+
+Desde 2023 trabajo con **Next.js**, y actualmente estoy enfocado en fortalecer mi perfil como **Back-end Developer** utilizando **NestJS**, aplicando buenas prácticas y principios de arquitectura.
+
+Me especializo en:
+
+- 🏗️ Diseño de APIs RESTful
+- 🧩 Arquitecturas modulares y escalables
+- 🗄️ Modelado y optimización de bases de datos
+- 🔐 Autenticación y autorización (JWT, Guards, Roles)
+- 📐 Buenas prácticas: SOLID, Clean Code
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 💻 Back-end
+- NestJS  
+- Node.js  
+- Express  
+- TypeScript  
+
+### 🗄️ Bases de Datos
+- SQL  
+- MySQL  
+- TypeORM  
+
+### ⚙️ Herramientas
+- Git & GitHub  
+- Docker  
+- Postman  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonsierra23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonsierra23&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Objetivo Profesional
+
+Consolidarme como **Back-end Developer**, profundizando en:
+
+- Arquitectura con NestJS
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Optimización de queries y performance en bases de datos
+- Diseño de sistemas escalables
+
+---
+
+## 📫 Conecta conmigo
+
+- 💼 LinkedIn: www.linkedin.com/in/brandon-brian-sierra-avila-18b423283
+- 📧 Email: brandonsierra.development@gmail.com
