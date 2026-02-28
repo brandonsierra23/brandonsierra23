@@ -25,13 +25,13 @@ Me especializo en:
 ## 🛠️ Stack Tecnológico  
 
 ### 💻 **Back-end**  
-NestJS • Node.js • Express • TypeScript  
+NestJS • Node.js • Express • TypeScript • Java
 
 ### 🗄️ **Bases de Datos**  
-PostgreSQL • MySQL • MongoDB • TypeORM / Prisma  
+SQL • MySQL • TypeORM  
 
 ### ⚙️ **Herramientas**  
-Git • Docker • Postman • Linux  
+Git • VS Code • Postman • Workbench
 
 ---
 
@@ -41,7 +41,6 @@ Consolidarme como **Back-end Developer**, profundizando en:
 
 - Arquitectura con NestJS
 - Clean Architecture
-- Domain-Driven Design (DDD)
 - Optimización de queries y performance en bases de datos
 - Diseño de sistemas escalables
 
