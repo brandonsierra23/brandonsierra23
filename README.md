@@ -42,15 +42,6 @@ Me especializo en:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonsierra23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonsierra23&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Objetivo Profesional
 
 Consolidarme como **Back-end Developer**, profundizando en:
