@@ -22,23 +22,16 @@ Me especializo en:
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico  
 
-### 💻 Back-end
-- NestJS  
-- Node.js  
-- Express  
-- TypeScript  
+### 💻 **Back-end**  
+NestJS • Node.js • Express • TypeScript  
 
-### 🗄️ Bases de Datos
-- SQL  
-- MySQL  
-- TypeORM  
+### 🗄️ **Bases de Datos**  
+PostgreSQL • MySQL • MongoDB • TypeORM / Prisma  
 
-### ⚙️ Herramientas
-- Git & GitHub  
-- Docker  
-- Postman  
+### ⚙️ **Herramientas**  
+Git • Docker • Postman • Linux  
 
 ---
 
